@@ -4,7 +4,7 @@ Contact me:
 
 
 <a align="left" href="https://www.facebook.com/anishaggarwal22">
-<img " width="80" height="80" src="https://user-images.githubusercontent.com/43617894/87022016-8b822f80-c1f3-11ea-9e35-555d1e04c21d.png">
+<img " width="80" height="80" src="https://image.flaticon.com/icons/svg/145/145802.svg">
 </a>
 
 <a align="right" href="https://www.linkedin.com/in/anish1712/">

@@ -3,8 +3,11 @@
 
 I am an open-source enthusiast, passionate about algorithms, competitive programming and software development. Besides, I have also begun to explore the world of Frontend development and Backend development (ReactJs, GraphQl, and NodeJs mainly). I enjoy problem-solving and creating new stuff using 3Js.
 
-Contact me:
+[![HitCount](http://hits.dwyl.com/anishagg17.svg)](http://hits.dwyl.com/anishagg17)
 
+
+
+Contact me:
 
 <a align="left" href="https://www.facebook.com/anishaggarwal22">
 <img " width="30" height="30" src="https://user-images.githubusercontent.com/43617894/87023546-79a18c00-c1f5-11ea-8c24-ca718111d084.png">

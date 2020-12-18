@@ -17,6 +17,8 @@ Contact me:
 <img  width="30" height="30" src="https://user-images.githubusercontent.com/43617894/87023444-570f7300-c1f5-11ea-88ec-9042bb6889ee.png">
 </a>
 
+<!---
 <a align="center" href="https://api.whatsapp.com/send?phone=919882061709">
   <img width="30" height="30" src="https://user-images.githubusercontent.com/43617894/87023392-45c66680-c1f5-11ea-9a1c-e0b71b6c59a4.png">
 </a>
+--->

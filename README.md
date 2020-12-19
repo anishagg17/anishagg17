@@ -1,6 +1,8 @@
 ### Hi, I'm Anish! 👋
 
-I am a pre-final year student at NIT, Hamirpur, pursuing my Bachelors in Computer Science. I have been a Google Summer of Code(GSoC) student @Elastic :elasticheart:
+I am a pre-final year student at NIT, Hamirpur, pursuing my Bachelors in Computer Science. I have been a Google Summer of Code(GSoC) student @Elastic <img width="18" height="15" alt="Elasticheart" src="./elasticheart.png"/>
+
+
 
 Besides coding, I like sleeping 😴
 

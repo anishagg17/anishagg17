@@ -9,13 +9,20 @@ I am an open-source enthusiast, passionate about algorithms, competitive program
 
 Contact me:
 
-<a align="left" href="https://www.facebook.com/anish1712/">
-<img " width="30" height="30" src="https://user-images.githubusercontent.com/43617894/87023546-79a18c00-c1f5-11ea-8c24-ca718111d084.png">
+
+<a href="https://www.facebook.com/anish1712/">
+  <img align="left" alt="Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
 </a>
 
-<a align="right" style="margin:'0px 15px'" href="https://www.linkedin.com/in/anish1712/">
-<img  width="30" height="30" src="https://user-images.githubusercontent.com/43617894/87023444-570f7300-c1f5-11ea-88ec-9042bb6889ee.png">
+<a href="https://www.linkedin.com/in/anish1712/">
+  <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
+
+<a href="mailto:anish17122000@gmail.com">
+  <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
+</a>
+
+
 
 <!---
 <a align="center" href="https://api.whatsapp.com/send?phone=919882061709">

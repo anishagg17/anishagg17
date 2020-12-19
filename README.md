@@ -1,6 +1,12 @@
 ### Hi, I'm Anish! 👋
 
-I am a pre-final year student at NIT, Hamirpur, pursuing my Bachelors in Computer Science.
+I am a pre-final year student at NIT, Hamirpur, pursuing my Bachelors in Computer Science. I have been a Google Summer of Code(GSoC) student @Elastic :elasticheart:
+
+Besides coding, I like sleeping 😴
+
+- :man_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, GraphQL and Python.
+- :cloud: Technologies: Cloud and Devops (AWS, Docker, CircleCi) 
+
 
 <!---
 I am an open-source enthusiast, passionate about algorithms, competitive programming and software development. Besides, I have also begun to explore the world of Frontend development and Backend development (ReactJs, GraphQl, and NodeJs mainly). I enjoy problem-solving and creating new stuff using 3Js.

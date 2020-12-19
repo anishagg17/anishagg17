@@ -6,7 +6,7 @@ I am a pre-final year student at NIT, Hamirpur, pursuing my Bachelors in Compute
 
 Besides coding, I like sleeping 😴
 
-- :man_technologist: Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, GraphQL and Python.
+- :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, React, MongoDb, Node.js, C++, GraphQL and Python.
 - :cloud: Technologies: Cloud and Devops (AWS, Docker) 
 
 

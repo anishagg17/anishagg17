@@ -6,8 +6,10 @@ I am a pre-final year student at NIT, Hamirpur, pursuing my Bachelors in Compute
 
 Besides coding, I like sleeping 😴
 
-- :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, React, MongoDb, Node.js, C++, GraphQL and Python.
-- :cloud: Technologies: Cloud and Devops (AWS, Docker) 
+- :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, React, Node.js, C++, GraphQL, GoLang and Python.
+- :cloud: Technologies: Blockchain, Cloud and Devops (AWS, Docker) 
+- DB: MongoDb, PostgreSQL, DynamoDB
+- Others: framer-motion, 3JS, D3
 
 View Resume : <a href="https://www.anish.codes/data/csv-resume.pdf">Link</a>
 

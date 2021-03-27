@@ -8,7 +8,7 @@ Besides coding, I like sleeping 😴
 
 - :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, Node.js, C++, GraphQL, GoLang, Ruby and Python.
 - Backend_Frameworks: ExpressJs, MUX, Fiber, Rails.
-- Frontend: ReactJs.
+- Frontend: ReactJs, webpack, Elastic UI, Material UI, styled-components.
 - :cloud: Technologies: Cloud and Devops (AWS, Docker) 
 - DB: MongoDb, PostgreSQL, DynamoDB
 - 📊 Others: Blockchain, framer-motion, 3JS, D3

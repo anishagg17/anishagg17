@@ -10,7 +10,7 @@ Besides coding, I like sleeping 😴
 - Backend_Frameworks: ExpressJs, MUX, Fiber, Rails.
 - Frontend: ReactJs, webpack, Elastic UI, Material UI, styled-components.
 - :cloud: Technologies: Vercel, AWS, Docker
-- DB: MongoDb, PostgreSQL, DynamoDB
+- DB: MongoDb, PostgreSQL, DynamoDB, LevelDB.
 - 📊 Others: Blockchain, framer-motion, 3JS, D3
 
 View Resume : <a href="https://www.anish.codes/data/csv-resume.pdf">Link</a>

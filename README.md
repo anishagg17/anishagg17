@@ -7,7 +7,7 @@ I am a pre-final year student at NIT, Hamirpur, pursuing my Bachelors in Compute
 Besides coding, I like sleeping 😴
 
 - :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, Node.js, C++, GraphQL, GoLang, Ruby and Python.
-- Backend_Frameworks: ExpressJs, MUX, Fiber, Rails.
+- Backend: ExpressJs, MUX, Fiber, Rails.
 - Frontend: ReactJs, webpack, Elastic UI, Material UI, styled-components.
 - :cloud: Technologies: Vercel, AWS, Docker, Firebase.
 - DB: MongoDb, PostgreSQL, DynamoDB, LevelDB.

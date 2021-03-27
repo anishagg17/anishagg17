@@ -40,6 +40,11 @@ Contact me:
 </a>
 
 
+<a href="https://twitter.com/anishagg17">
+  <img align="left" alt="Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+
 
 <!---
 <a align="center" href="https://api.whatsapp.com/send?phone=919882061709">

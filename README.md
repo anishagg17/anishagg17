@@ -11,7 +11,7 @@ Besides coding, I like sleeping 😴
 - Frontend: ReactJs, ElectronJs, Gatsby, NextJs, webpack.
 - :cloud: Technologies: Vercel, AWS, Docker, Firebase.
 - DB: MongoDb, PostgreSQL, DynamoDB, LevelDB.
-- 🌺  Elastic UI, Material UI, styled-components.
+- 🌺 Styling: Elastic UI, Material UI, styled-components.
 - 📊 Others: Blockchain, framer-motion, 3JS, D3
 
 View Resume : <a href="https://www.anish.codes/data/csv-resume.pdf">Link</a>

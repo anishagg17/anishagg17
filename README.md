@@ -14,7 +14,7 @@ Besides coding, I like sleeping 😴
 - 🌺 Styling: Elastic UI, Material UI, styled-components.
 - 📊 Others: Blockchain, framer-motion, 3JS, D3
 
-View Resume : <a href="https://www.anish.codes/data/csv-resume.pdf">Link</a>
+View Resume : <a href="https://cutt.ly/resume_anish">Link</a>
 
 <!---
 I am an open-source enthusiast, passionate about algorithms, competitive programming and software development. Besides, I have also begun to explore the world of Frontend development and Backend development (ReactJs, GraphQl, and NodeJs mainly). I enjoy problem-solving and creating new stuff using 3Js.

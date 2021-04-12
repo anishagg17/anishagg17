@@ -9,6 +9,7 @@ Besides coding, I like sleeping 😴
 - :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, Node.js, C++, GraphQL, GoLang, Ruby and Python.
 - Backend: ExpressJs, MUX, Fiber, Rails.
 - Frontend: ReactJs, ElectronJs, Gatsby, NextJs, webpack.
+- Android: react-native, expo
 - :cloud: Technologies: Vercel, AWS, Docker, Firebase.
 - DB: MongoDb, PostgreSQL, DynamoDB, LevelDB.
 - 🌺 Styling: Elastic UI, Material UI, styled-components.

@@ -20,7 +20,7 @@ I am an open-source enthusiast, passionate about algorithms, competitive program
 --->
 
 
-[![HitCount](http://hits.dwyl.com/anishagg17.svg)](http://hits.dwyl.com/anishagg17)
+<!--[![HitCount](http://hits.dwyl.com/anishagg17.svg)](http://hits.dwyl.com/anishagg17)-->
 
 
 

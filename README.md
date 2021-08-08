@@ -2,7 +2,7 @@
 
 I have been a Google Summer of Code(GSoC) developer @Elastic <img width="18" height="15" alt="Elasticheart" src="./elasticheart.png"/> in 2020.
 
-Besides coding, I like sleeping 😴
+Besides coding, I like sleeping, exercising and bike-riding.
 
 - :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, Node.js, C++, GraphQL, GoLang, Ruby and Python.
 - Backend: ExpressJs, MUX, Fiber, Rails.

@@ -1,6 +1,6 @@
 ### Hi, I'm Anish! 👋
 
-I have been a Software Engineering Intern @Linkedin <img width="18" height="15" alt="LinkedIn" src="./linkedin.png"/> and Google Summer of Code(GSoC) developer @Elastic <img width="18" height="15" alt="Elasticheart" src="./elasticheart.png"/>.
+I have been a Software Engineering Intern @Linkedin <img width="18" height="18" alt="LinkedIn" src="./linkedin.png"/> and Google Summer of Code(GSoC) developer @Elastic <img width="18" height="16" alt="Elasticheart" src="./elasticheart.png"/>.
 
 Besides coding, I like sleeping, exercising and bike-riding.
 
@@ -31,10 +31,11 @@ Contact me:
   <img align="left" alt="Facebook" src="https://img.icons8.com/bubbles/50/000000/facebook.png"/>
 </a>
 
-<!---
 <a href="https://www.linkedin.com/in/anish1712/">
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
+
+<!---
 --->
 
 <a href="mailto:anish17122000@gmail.com">

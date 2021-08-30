@@ -1,17 +1,17 @@
 ### Hi, I'm Anish! 👋
 
-I have been a Google Summer of Code(GSoC) developer @Elastic <img width="18" height="15" alt="Elasticheart" src="./elasticheart.png"/> in 2020.
+I have been a Software Engineering Intern @Linkedin <img width="18" height="15" alt="LinkedIn" src="./linkedin.png"/> and Google Summer of Code(GSoC) developer @Elastic <img width="18" height="15" alt="Elasticheart" src="./elasticheart.png"/>.
 
 Besides coding, I like sleeping, exercising and bike-riding.
 
-- :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, Node.js, C++, GraphQL, GoLang, Ruby and Python.
+- :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, Node.js, C++, Java, GraphQL, GoLang, Ruby and Python.
 - Backend: ExpressJs, MUX, Fiber, Rails.
 - Frontend: ReactJs, ElectronJs, Gatsby, NextJs, webpack.
-- Android: react-native, expo
+- Android: react-native, expo.
 - :cloud: Technologies: Vercel, AWS, Docker, Firebase.
 - DB: MongoDb, PostgreSQL, DynamoDB, LevelDB.
 - 🌺 Styling: Elastic UI, Material UI, styled-components.
-- 📊 Others: Blockchain, framer-motion, 3JS, D3
+- 📊 Others: Blockchain, framer-motion, 3JS, D3, Cryptography, Integration testing.
 
 <!---
 View Resume : <a href="https://cutt.ly/resume_anish">Link</a>

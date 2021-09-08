@@ -35,7 +35,7 @@ Contact me:
   <img align="left" alt="LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
-<a href="mailto:anish17122000@gmail.com">
+<a href="mailto:anish.who@gmail.com">
   <img align="left" alt="Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 

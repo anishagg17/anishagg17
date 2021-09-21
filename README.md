@@ -2,7 +2,7 @@
 
 I have been a Software Engineering Intern @Linkedin <img width="18" height="18" alt="LinkedIn" src="./linkedin.png"/> and Google Summer of Code(GSoC) developer @Elastic <img width="18" height="16" alt="Elasticheart" src="./elasticheart.png"/>.
 
-Besides coding, I like sleeping, exercising and bike-riding.
+Besides coding, I like sleeping, exercising and bike-riding.   <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=anishagg17" />
 
 - :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, Node.js, C++, Java, GraphQL, GoLang, Ruby and Python.
 - Backend: ExpressJs, MUX, Fiber, Rails.

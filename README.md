@@ -1,8 +1,8 @@
 ### Hi, I'm Anish! 👋
 
-I have been a Software Engineering Intern @Linkedin <img width="20" height="20" alt="LinkedIn" src="./linkedin.png"/> and Google Summer of Code(GSoC) developer @Elastic <img width="20" height="18" alt="Elasticheart" src="./elasticheart.png"/>.
+I have been a Software Engineering Intern @Amazon <img width="22" height="22" alt="Amazon" src="./amazon.png"/>, @Linkedin <img width="20" height="20" alt="LinkedIn" src="./linkedin.png"/> and Google Summer of Code(GSoC) developer @Elastic <img width="20" height="18" alt="Elasticheart" src="./elasticheart.png"/>.
 
-Besides coding, I like sleeping, exercising and bike-riding.   <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=anishagg17" />
+Besides coding, I like sleeping & exercising.   <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=anishagg17" />
 
 - :man_technologist: Code: HTML, CSS, JavaScript, TypeScript, Node.js, C++, Java, GraphQL, GoLang, Ruby and Python.
 - Backend: ExpressJs, MUX, Fiber, Rails.
@@ -16,7 +16,6 @@ Besides coding, I like sleeping, exercising and bike-riding.   <img alt="ViewCou
 <!---
 View Resume : <a href="https://cutt.ly/resume_anish">Link</a>
 
-@Amazon <img width="22" height="22" alt="Amazon" src="./amazon.png"/>, 
 
 I am an open-source enthusiast, passionate about algorithms, competitive programming and software development. Besides, I have also begun to explore the world of Frontend development and Backend development (ReactJs, GraphQl, and NodeJs mainly). I enjoy problem-solving and creating new stuff using 3Js.
 --->

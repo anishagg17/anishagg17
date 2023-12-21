@@ -42,7 +42,7 @@ Contact me:
 
 
 <a href="https://twitter.com/anishagg17">
-  <img align="left" alt="Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+  <img align="left" alt="Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png"/>
 </a>
 
 
